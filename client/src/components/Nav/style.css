@@ -1,0 +1,13 @@
+.navlink {
+    background:gray;
+    color:white;
+    margin-left:5px;
+    padding:7px 7px 7px 7px;
+    margin-right: 5px;
+    shape-outside: round;
+    font-size: 20px;
+    border-radius: 15px 50px 30px 5px
+}
+h1 {
+    margin-left:5px;
+}
